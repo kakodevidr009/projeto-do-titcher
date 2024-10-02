@@ -15,3 +15,7 @@ width: 120%;}
 
 h4 {width: 50%;
 margin-left: 50%;}
+
+h1 {border-style: douyble;
+    border-color: blue;
+    border-size: 20px;
