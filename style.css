@@ -2,7 +2,9 @@ h1 {text-align: center;}
 h1 {color: rgb(rgb(165, 62, 67));}
 
 h2 {margin-left: 25%;
-width: 200%;}
+width: 200%;
+   border-style: double;
+   border-color: Magenta;}
 
 #maedore1 {margin-left: 25%;
 width: 60%;}
@@ -11,10 +13,14 @@ width: 60%;}
 margin-left: 25%;}
 
 h3 {margin-left: 25%;
-width: 120%;}
+width: 120%;
+   border-style: double;
+   border-color: Blue;}
 
 h4 {width: 50%;
-margin-left: 50%;}
+margin-left: 50%;
+   border-style: Double;
+   border-color: green;}
 
 h1 {border-style: double;
     border-color: Red;
